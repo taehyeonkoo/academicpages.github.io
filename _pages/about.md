@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am a final-year PhD student at the Department of Statistics, at Rutgers University. I am fortunate to be advised by Professors [Zijian Guo](https://statweb.rutgers.edu/zijguo/) and [Nicole E. Pashley](https://sites.google.com/view/npashley/home?authuser=0). My research interests are causal inference, experimental design, and observational studies.
 
 Research
