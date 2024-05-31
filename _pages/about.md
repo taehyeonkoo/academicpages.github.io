@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Welcome to Taehyeon's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
