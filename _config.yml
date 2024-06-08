@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Taehyeon Koo"
+title                    : "Taehyeon Koo's Homepage"
 title_separator          : "-"
 name                     : &name "Taehyeon Koo"
 description              : &description "Ph.D. Candidate in Statistics at Rutgers U."
