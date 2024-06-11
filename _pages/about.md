@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 ## About me
-I am a final-year PhD student at the Department of Statistics, at Rutgers University. I am fortunate to be advised by Professors [Zijian Guo](https://statweb.rutgers.edu/zijguo/) and [Nicole E. Pashley](https://sites.google.com/view/npashley/home?authuser=0). Before that, I received my master's degree in Statistics from Seoul National University in 2020 and my bachelor's degree in Mathematical Science from the same institution in 2018. 
+I am a final-year Ph.D. student at the Department of Statistics, at Rutgers University. I am fortunate to be advised by Professors [Zijian Guo](https://statweb.rutgers.edu/zijguo/) and [Nicole E. Pashley](https://sites.google.com/view/npashley/home?authuser=0). Before that, I received my master's degree in Statistics from Seoul National University in 2020 and my bachelor's degree in Mathematical Science from the same institution in 2018. 
 
 ## Research
-I am broadly interested in causal inference, experimental design, and observational studies. 
+I am broadly interested in causal inference, experimental design, and observational studies. Specifically, I am interested in two perspectives on causal inference: the model-based and the randomization-based approaches. 
 
 ### Preprints
 1. Koo, T., and Pashley, N.E. (2024) "[Causal Inference for Balanced Incomplete Block Designs](https://arxiv.org/abs/2405.19312)", *arXiv:2405.19312*.
