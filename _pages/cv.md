@@ -8,8 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Research
-I am broadly interested in causal inference, experimental design, and observational studies. In particular, I am interested in two perspectives on causal inference that differ in their assumptions about the source of randomness: the model-based perspective and the randomization-based perspective.
 
 ### Preprints
 1. Koo, T., and Pashley, N.E. (2024) "[Design-based Causal Inference for Balanced Incomplete Block Designs](https://arxiv.org/abs/2405.19312)", *arXiv:2405.19312*.
