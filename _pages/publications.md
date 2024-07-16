@@ -1,11 +1,9 @@
 ---
-layout: archive
-title: 
+title: "[Google Scholar Profile](https://scholar.google.com/citations?user=EL91AqwAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=EL91AqwAAAAJ&hl=en)
 
 ## Preprints
 1. Koo, T., and Pashley, N.E. (2024) "[Design-based Causal Inference for Balanced Incomplete Block Designs](https://arxiv.org/abs/2405.19312)", *arXiv:2405.19312*.
