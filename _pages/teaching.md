@@ -13,6 +13,7 @@ Instructor (Rutgers University)
 
 Teaching Assistant (Rutgers University)
 ======
+* STAT 486: Applied Statistical Learning, Fall 2024
 * STAT 490: Introduction to Experimental Design, Spring 2024
 * STAT 467: Applied Multivariate Analysis, Spring 2023
 * STAT 594: Advance Modern Statistical Inference II, Spring 2022
