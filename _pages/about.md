@@ -21,7 +21,3 @@ I am broadly interested in causal inference. In particular, I am interested in t
 
 ## Awards
 * Best Ph.D. Qualifying Exam Performance, Department of Statistics, Rutgers University, 2021.
-
-## Talks
-* Poster Presentation at *Conference on Recent Advances in Statistics and Data Science* at Rutgers University, May 11, 2023, on “Analysis of Incomplete Block Designs with the Potential Outcomes Framework”.
-
